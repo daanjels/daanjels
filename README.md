@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi folks 👋
+
+- 🔭 I’m working on my artwork web site
+- 🌱 I’m currently learning PHP
 
 <!--
 **daanjels/daanjels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
